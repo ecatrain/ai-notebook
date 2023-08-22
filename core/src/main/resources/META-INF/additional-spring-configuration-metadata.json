@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "openai.chatgpt.url",
+    "type": "java.lang.String",
+    "description": "A description for 'openai.chatgpt.url'"
+  },
+  {
+    "name": "openai.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'openai.api.key'"
+  },
+  {
+    "name": "openai.chatgpt.model",
+    "type": "java.lang.String",
+    "description": "A description for 'openai.chatgpt.model'"
+  }
+]}
